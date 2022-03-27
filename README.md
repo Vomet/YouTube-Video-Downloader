@@ -1,7 +1,7 @@
 # YouTube Video Downloader
 Downloads YouTube videos from Replit.
 
-View it [here](https://replit.com/@Vomet/YouTube-Video-Downloader).
+View it on [Replit](https://replit.com/@Vomet/YouTube-Video-Downloader) or [GitHub](https://github.com/Vomet/YouTube-Video-Downloader).
 
 Note, if you get errors it's likely because:
 
