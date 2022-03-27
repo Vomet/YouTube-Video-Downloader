@@ -12,6 +12,8 @@ If you get errors it's likely because:
 1. Replit account and a connected GitHub account.
 
 ## Instructions
+**Instructions are incomplete**
+
 Note, these instructions tell you to download from Replit and upload to GitHub. Then, you download from GitHub.
 
   1. Fork from [GitHub](https://github.com/Vomet/YouTube-Video-Downloader) repo.
@@ -20,7 +22,7 @@ Note, these instructions tell you to download from Replit and upload to GitHub. 
   4. Go to "Version control" (second icon below Files)
   5. Make a new branch called `downloads`
   6. Commit and push to `downloads`
-  7. Go to your GitHub repo and find your `downloads` branch
+  7. Go to your GitHub repo and find "Compare and pull request."
   8. Click on "Code" > "Download ZIP"
   9. Unzip file
 
