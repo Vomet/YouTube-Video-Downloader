@@ -1,7 +1,7 @@
 # YouTube Video Downloader
 Downloads YouTube videos from Replit. Only YouTube videos can be downloaded (other sites have not been tested).
 
-View it on [Replit](https://replit.com/@Vomet/YouTube-Video-Downloader) or [GitHub](https://github.com/Vomet/YouTube-Video-Downloader).
+View it on [Replit](https://replit.com/@Vomet/YouTube-Downloader#main.py) or [GitHub](https://github.com/Vomet/YouTube-Video-Downloader).
 
 If you get errors it's likely because:
 
